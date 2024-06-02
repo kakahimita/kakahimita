@@ -1,4 +1,3 @@
-# Olá, me chamo Luís Henrique ! 
 ## Bem vindo ao meu perfil GitHub 👋
 ### Sou estudante em Ciência da Computação na UNIFG. Aqui compartilho meu desenvolvimento e alguns projetos acadêmicos.
 
