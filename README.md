@@ -1,5 +1,4 @@
 ## Bem vindo ao meu perfil GitHub 👋
-## Aqui compartilho meu desenvolvimento e alguns projetos acadêmicos.
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
