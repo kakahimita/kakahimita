@@ -1,5 +1,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
+Sou estudante em Ciências da Computação e atualmente estou no 5º período da faculdade e tenho uma paixão especial por tecnologia.
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakahimita&layout=compact&langs_count=7&theme=github_dark"/>
