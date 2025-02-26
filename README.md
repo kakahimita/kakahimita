@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou estudante em Ciências da Computação e atualmente estou no 5º período da faculdade e tenho uma paixão especial por tecnologia.
+Sou estudante em Ciências da Computação e atualmente estou no 6º período da faculdade e tenho uma paixão especial por tecnologia.
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
