@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil GitHub 👋
+## Bem vindo 👋
 
 Sou estudante em Ciências da Computação e atualmente estou no 6º período da faculdade e tenho uma paixão especial por tecnologia.
 
