@@ -2,8 +2,6 @@
 
 Sou estudante em Ciências da Computação e atualmente estou no 7º período da faculdade e tenho uma paixão especial por tecnologia.
 
-Atualmente trabalho com desenvolvimento **Backend**, **APIs** e **Frontend**, focando em operações financeiras como PIX, extratos bancários e sistemas administrativos.
-
 <div align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kakahimita&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakahimita&layout=compact&langs_count=7&theme=github_dark"/>
