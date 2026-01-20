@@ -9,8 +9,6 @@ Atualmente trabalho com desenvolvimento **Backend**, **APIs** e **Frontend**, fo
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakahimita&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
 **Backend & APIs**
@@ -32,13 +30,6 @@ Atualmente trabalho com desenvolvimento **Backend**, **APIs** e **Frontend**, fo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Também trabalho com**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Appsmith](https://img.shields.io/badge/Appsmith-2A2A2A?style=for-the-badge&logo=appsmith&logoColor=orange)
-
----
 
 ## 📫 Vamos conversar?
 
