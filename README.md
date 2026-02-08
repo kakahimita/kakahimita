@@ -24,23 +24,25 @@
 
 <br clear="right">
 
-### 🛠️ Languages & tools I have placed My Hands On
-
-<p align="left">
+<div align="center">
+  <h3>🛠️ Languages & tools I have placed My Hands On</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,js,postgres,sequelize,react,html,css,docker,linux,git&theme=dark" />
   </a>
-</p>
+</div>
 
-### 📊 GitHub Stats
+<br>
 
-![GitHub Stats](https://github-readme-stats-rho.vercel.app/api?username=kakahimita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats-rho.vercel.app/api/top-langs/?username=kakahimita&layout=compact&theme=tokyonight)
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats-rho.vercel.app/api?username=kakahimita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-rho.vercel.app/api/top-langs/?username=kakahimita&theme=tokyonight&hide_border=false" alt="Top Languages" height="150" />
+</div>
 
+<br>
 
-### 📫 Contato:
-
-<div>
+<div align="center">
+  <h3>📫 Contato:</h3>
   <a href="mailto:luismachadodev95@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
