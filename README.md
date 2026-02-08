@@ -1,27 +1,49 @@
-## Bem vindo 👋
-
-Sou estudante em Ciências da Computação e atualmente estou no 7º período da faculdade e tenho uma paixão especial por tecnologia.
-
 <div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kakahimita&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakahimita&layout=compact&langs_count=7&theme=github_dark"/>
+  <img src="https://i.pinimg.com/originals/f3/87/10/f38710d85f0593010801718a8fda7fe3.gif" width="100%" />
+
+  <h1> Namaste 🙏 Seja bem-vindo</h1>
+  <p>Sou estudante de Ciência da Computação, atualmente no 7º período, apaixonado por tecnologia e sempre em busca de evolução constante na área.</p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kakahimita&label=PROFILE+VIEWS&color=007ACC&style=flat" />
+    <img src="https://img.shields.io/github/stars/kakahimita?style=flat&color=007ACC" />
+    <img src="https://img.shields.io/github/followers/kakahimita?style=flat&color=007ACC" />
+  </p>
 </div>
 
-## 🛠️ Tech Stack
+### 💫 Sobre Mim
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none;">
+    <td width="60%" style="border: none; vertical-align: top;">
+      <p align="left">
+        💻 Atuo como <b>Desenvolvedor Júnior Back-end I</b>. <br>
+        🐧 Usuário entusiasta de <b>Ubuntu</b> para desenvolvimento e produtividade.<br>
+        📓 Utilizo o <b>Obsidian</b> para organizar meus estudos e documentar fluxos de software <br>
+        🎮 Nas horas vagas, me aventuro em <b>MMORPGs</b> e crio scripts para otimizar minhas jornadas.
+      </p>
+    </td>
+    <td width="40%" style="border: none; vertical-align: center;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
 
-## 📫 Vamos conversar?
+### 🛠️ Languages & tools I have placed My Hands On
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,js,postgres,sequelize,react,html,css,docker,linux,git&theme=dark" />
+  </a>
+</p>
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-rho.vercel.app/api?username=kakahimita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-rho.vercel.app/api/top-langs/?username=kakahimita&layout=compact&theme=tokyonight)
+
+
+### 📫 Contato:
 
 <div>
   <a href="mailto:luismachadodev95@gmail.com">
