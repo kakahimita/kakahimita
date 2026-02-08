@@ -13,21 +13,14 @@
 
 ### 💫 Sobre Mim
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr style="border: none;">
-    <td width="60%" style="border: none; vertical-align: top;">
-      <p align="left">
-        💻 Atuo como <b>Desenvolvedor Júnior Back-end I</b>. <br>
-        🐧 Usuário entusiasta de <b>Ubuntu</b> para desenvolvimento e produtividade.<br>
-        📓 Utilizo o <b>Obsidian</b> para organizar meus estudos e documentar fluxos de software <br>
-        🎮 Nas horas vagas, me aventuro em <b>MMORPGs</b> e crio scripts para otimizar minhas jornadas.
-      </p>
-    </td>
-    <td width="40%" style="border: none; vertical-align: center;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation">
-    </td>
-  </tr>
-</table>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300px" alt="Coding Animation">
+
+💻 Atuo como **Desenvolvedor Júnior Back-end I**.  
+🐧 Usuário entusiasta de **Ubuntu** para desenvolvimento e produtividade.  
+📓 Utilizo o **Obsidian** para organizar meus estudos e documentar fluxos de software.  
+🎮 Nas horas vagas, me aventuro em **MMORPGs** e crio scripts para otimizar minhas jornadas.
+
+<br clear="right">
 
 ### 🛠️ Languages & tools I have placed My Hands On
 
