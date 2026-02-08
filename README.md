@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/f3/87/10/f38710d85f0593010801718a8fda7fe3.gif" width="100%" />
 
   <h1>Seja bem-vindo</h1>
-  <p>Sou estudante de Ciência da Computação, atualmente no 7º período, apaixonado por tecnologia e sempre em busca de evolução constante na área.</p>
+  <p>Sou estudante de Ciência da Computação, no 7º período, e venho construindo meu aprendizado de forma prática e constante. Tenho interesse em desenvolvimento de software e gosto de ir além do funcionamento superficial, entendendo decisões técnicas, estrutura de código e impacto das escolhas feitas durante o desenvolvimento. Acredito que evolução na área vem da disciplina em aprender, testar e melhorar continuamente.</p>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kakahimita&label=PROFILE+VIEWS&color=007ACC&style=flat" />
