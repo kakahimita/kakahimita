@@ -16,7 +16,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300px" alt="Coding Animation">
 
 * 💻 Atuo como **Desenvolvedor Júnior Back-end I**.
-* 🏫 Estudante de **Ciência da Computação** no 7º período.
+* 🏫 Estudante de **Ciência da Computação** no 8º período.
 * 🌱 Acredito em evolução constante, um pouco melhor a cada dia.
 * 🐧 Usuário entusiasta de **Ubuntu** para desenvolvimento e produtividade.  
 * 📓 Utilizo o **Obsidian** para organizar meus estudos e documentão.  
